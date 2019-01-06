@@ -1,0 +1,28 @@
+C:\Users\Lucas\source\repos\locations-microservice\locations-microservice\bin\Debug\netcoreapp2.1\locations-microservice.deps.json
+C:\Users\Lucas\source\repos\locations-microservice\locations-microservice\bin\Debug\netcoreapp2.1\locations-microservice.runtimeconfig.json
+C:\Users\Lucas\source\repos\locations-microservice\locations-microservice\bin\Debug\netcoreapp2.1\locations-microservice.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\locations-microservice\locations-microservice\bin\Debug\netcoreapp2.1\locations-microservice.dll
+C:\Users\Lucas\source\repos\locations-microservice\locations-microservice\bin\Debug\netcoreapp2.1\locations-microservice.pdb
+C:\Users\Lucas\source\repos\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.RazorAssemblyInfo.cache
+C:\Users\Lucas\source\repos\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.RazorAssemblyInfo.cs
+C:\Users\Lucas\source\repos\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas\source\repos\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.dll
+C:\Users\Lucas\source\repos\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.pdb
+C:\Users\Lucas\Desktop\Repos pós\locations-microservice\locations-microservice\bin\Debug\netcoreapp2.1\locations-microservice.deps.json
+C:\Users\Lucas\Desktop\Repos pós\locations-microservice\locations-microservice\bin\Debug\netcoreapp2.1\locations-microservice.runtimeconfig.json
+C:\Users\Lucas\Desktop\Repos pós\locations-microservice\locations-microservice\bin\Debug\netcoreapp2.1\locations-microservice.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\Repos pós\locations-microservice\locations-microservice\bin\Debug\netcoreapp2.1\locations-microservice.dll
+C:\Users\Lucas\Desktop\Repos pós\locations-microservice\locations-microservice\bin\Debug\netcoreapp2.1\locations-microservice.pdb
+C:\Users\Lucas\Desktop\Repos pós\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Repos pós\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Repos pós\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.RazorAssemblyInfo.cache
+C:\Users\Lucas\Desktop\Repos pós\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.RazorAssemblyInfo.cs
+C:\Users\Lucas\Desktop\Repos pós\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Repos pós\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Repos pós\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas\Desktop\Repos pós\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.dll
+C:\Users\Lucas\Desktop\Repos pós\locations-microservice\locations-microservice\obj\Debug\netcoreapp2.1\locations-microservice.pdb
